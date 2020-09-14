@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/7290faeb93614d294f5bf55c10a4ceda/appcompat-1.1.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v23/mtrl_popupmenu_background_dark.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/4320f6d8b839368706efeac768a0879b/material-1.1.0/res/drawable-v23/mtrl_popupmenu_background_dark.xml"
+    }
+]

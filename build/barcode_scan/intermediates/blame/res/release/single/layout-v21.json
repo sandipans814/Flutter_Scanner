@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/a16abe2d9470ae868fa917ac14754888/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/a16abe2d9470ae868fa917ac14754888/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/a16abe2d9470ae868fa917ac14754888/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/a16abe2d9470ae868fa917ac14754888/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

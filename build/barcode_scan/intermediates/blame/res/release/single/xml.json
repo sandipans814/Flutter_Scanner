@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/4320f6d8b839368706efeac768a0879b/material-1.1.0/res/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/4320f6d8b839368706efeac768a0879b/material-1.1.0/res/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/4320f6d8b839368706efeac768a0879b/material-1.1.0/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/4320f6d8b839368706efeac768a0879b/material-1.1.0/res/xml/standalone_badge_gravity_bottom_end.xml"
+    }
+]

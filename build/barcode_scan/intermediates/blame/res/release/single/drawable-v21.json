@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/7290faeb93614d294f5bf55c10a4ceda/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/4320f6d8b839368706efeac768a0879b/material-1.1.0/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/4320f6d8b839368706efeac768a0879b/material-1.1.0/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/7290faeb93614d294f5bf55c10a4ceda/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/a16abe2d9470ae868fa917ac14754888/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/7290faeb93614d294f5bf55c10a4ceda/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/7290faeb93614d294f5bf55c10a4ceda/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/4320f6d8b839368706efeac768a0879b/material-1.1.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/4320f6d8b839368706efeac768a0879b/material-1.1.0/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/7290faeb93614d294f5bf55c10a4ceda/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

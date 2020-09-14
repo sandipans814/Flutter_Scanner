@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/layout-v26/mtrl_calendar_month.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/4320f6d8b839368706efeac768a0879b/material-1.1.0/res/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "/Users/sandipansaha/AndroidStudioProjects/flutter_scanner/build/barcode_scan/intermediates/res/merged/release/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/sandipansaha/.gradle/caches/transforms-2/files-2.1/7290faeb93614d294f5bf55c10a4ceda/appcompat-1.1.0/res/layout-v26/abc_screen_toolbar.xml"
+    }
+]
